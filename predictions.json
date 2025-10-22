@@ -1,7 +1,7 @@
 {
   "week": 8,
   "season": 2025,
-  "generated": "2025-10-22T19:15:11.440215+00:00",
+  "generated": "2025-10-22T19:23:36.460288+00:00",
   "games": [
     {
       "gameId": "401772942",
@@ -10,11 +10,11 @@
       "homeTeam": "LAC",
       "vegasSpread": -3.5,
       "vegasTotal": 44.5,
-      "prediction": -2.2384521032367966,
-      "spreadDiff": 1.2615478967632034,
+      "prediction": -2.238452103236796,
+      "spreadDiff": 1.261547896763204,
       "betRecommendation": "MIN",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "3-3",
+      "homeRecord": "4-3"
     },
     {
       "gameId": "401772760",
@@ -26,8 +26,8 @@
       "prediction": -6.988830498664385,
       "spreadDiff": 0.5111695013356146,
       "betRecommendation": "MIA",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "1-6",
+      "homeRecord": "3-3"
     },
     {
       "gameId": "401772758",
@@ -39,8 +39,8 @@
       "prediction": -4.637190520778813,
       "spreadDiff": 1.8628094792211867,
       "betRecommendation": "NYJ",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "0-7",
+      "homeRecord": "3-4"
     },
     {
       "gameId": "401772868",
@@ -52,8 +52,8 @@
       "prediction": -5.482411515091211,
       "spreadDiff": 1.0175884849087886,
       "betRecommendation": "CLE",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "2-5",
+      "homeRecord": "5-2"
     },
     {
       "gameId": "401772867",
@@ -65,8 +65,8 @@
       "prediction": -8.151992920532114,
       "spreadDiff": 0.6519929205321144,
       "betRecommendation": "PHI",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "2-5",
+      "homeRecord": "5-2"
     },
     {
       "gameId": "401772865",
@@ -78,8 +78,8 @@
       "prediction": 7.2156826114799735,
       "spreadDiff": 0.2843173885200265,
       "betRecommendation": "CAR",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "4-2",
+      "homeRecord": "4-3"
     },
     {
       "gameId": "401772759",
@@ -88,11 +88,11 @@
       "homeTeam": "BAL",
       "vegasSpread": -5.5,
       "vegasTotal": 48.5,
-      "prediction": -5.6131221465361785,
-      "spreadDiff": 0.11312214653617847,
+      "prediction": -5.613122146536178,
+      "spreadDiff": 0.11312214653617758,
       "betRecommendation": "BAL",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "4-2",
+      "homeRecord": "1-5"
     },
     {
       "gameId": "401772866",
@@ -101,11 +101,11 @@
       "homeTeam": "HOU",
       "vegasSpread": -1.5,
       "vegasTotal": 41.5,
-      "prediction": -0.1877528762417898,
-      "spreadDiff": 1.3122471237582103,
+      "prediction": -0.18775287624178985,
+      "spreadDiff": 1.31224712375821,
       "betRecommendation": "SF",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "5-2",
+      "homeRecord": "2-4"
     },
     {
       "gameId": "401772869",
@@ -117,8 +117,8 @@
       "prediction": 4.678041724275635,
       "spreadDiff": 0.17804172427563536,
       "betRecommendation": "TB",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "5-2",
+      "homeRecord": "1-6"
     },
     {
       "gameId": "401772762",
@@ -127,11 +127,11 @@
       "homeTeam": "DEN",
       "vegasSpread": -3.5,
       "vegasTotal": 51.5,
-      "prediction": -3.401360858486989,
-      "spreadDiff": 0.09863914151301101,
+      "prediction": -2.840010423017645,
+      "spreadDiff": 0.6599895769823552,
       "betRecommendation": "DAL",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "3-3",
+      "homeRecord": "5-2"
     },
     {
       "gameId": "401772761",
@@ -143,8 +143,8 @@
       "prediction": -11.564230393682422,
       "spreadDiff": 2.935769606317578,
       "betRecommendation": "TEN",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "1-6",
+      "homeRecord": "6-1"
     },
     {
       "gameId": "401772925",
@@ -156,8 +156,8 @@
       "prediction": 3.1292848616738924,
       "spreadDiff": 0.3707151383261076,
       "betRecommendation": "PIT",
-      "awayRecord": null,
-      "homeRecord": null
+      "awayRecord": "4-1",
+      "homeRecord": "4-2"
     },
     {
       "gameId": "401772817",
@@ -166,11 +166,11 @@
       "homeTeam": "KC",
       "vegasSpread": -12.5,
       "vegasTotal": 46.5,
-      "prediction": -10.398181896869016,
-      "spreadDiff": 2.1018181031309844,
+      "prediction": -10.39818189686902,
+      "spreadDiff": 2.101818103130981,
       "betRecommendation": "WAS",
       "awayRecord": null,
-      "homeRecord": null
+      "homeRecord": "4-3"
     }
   ]
 }
