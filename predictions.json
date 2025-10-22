@@ -1,7 +1,7 @@
 {
   "week": 8,
   "season": 2025,
-  "generated": "2025-10-22T19:08:35.875389+00:00",
+  "generated": "2025-10-22T19:15:11.440215+00:00",
   "games": [
     {
       "gameId": "401772942",
@@ -23,8 +23,8 @@
       "homeTeam": "ATL",
       "vegasSpread": -7.5,
       "vegasTotal": 44.5,
-      "prediction": -6.988830498664387,
-      "spreadDiff": 0.5111695013356128,
+      "prediction": -6.988830498664385,
+      "spreadDiff": 0.5111695013356146,
       "betRecommendation": "MIA",
       "awayRecord": null,
       "homeRecord": null
@@ -86,11 +86,11 @@
       "dateTime": "2025-10-26T17:00:00+00:00",
       "awayTeam": "CHI",
       "homeTeam": "BAL",
-      "vegasSpread": -6.5,
+      "vegasSpread": -5.5,
       "vegasTotal": 48.5,
-      "prediction": -6.08866043983465,
-      "spreadDiff": 0.41133956016534956,
-      "betRecommendation": "CHI",
+      "prediction": -5.6131221465361785,
+      "spreadDiff": 0.11312214653617847,
+      "betRecommendation": "BAL",
       "awayRecord": null,
       "homeRecord": null
     },
